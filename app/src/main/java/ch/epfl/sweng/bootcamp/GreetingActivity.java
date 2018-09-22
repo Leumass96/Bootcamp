@@ -13,6 +13,6 @@ public class GreetingActivity extends AppCompatActivity {
 
         TextView textView = (TextView) findViewById(R.id.greetingMessage);
         String message = getIntent().getStringExtra(MainActivity.EXTRA_MESSAGE);
-        textView.setText("Hello " + message + " !");
+        textView.setText("Hello " + message + "!");
     }
 }
