@@ -1,1 +1,3 @@
 [![Build Status](https://travis-ci.org/Leumass96/Bootcamp.svg?branch=master)](https://travis-ci.org/Leumass96/Bootcamp)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ae822c2be99b9c904b2a/maintainability)](https://codeclimate.com/github/Leumass96/Bootcamp/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/ae822c2be99b9c904b2a/test_coverage)](https://codeclimate.com/github/Leumass96/Bootcamp/test_coverage)
